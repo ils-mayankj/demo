@@ -5,3 +5,4 @@ members of SCO:
 3. Rohit sir
 4. Puspak sir
 5. Vishvajeet sir
+6. Mayank Jadhav
